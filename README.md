@@ -21,6 +21,8 @@
 - Used SQL to join tables, performed subqueries (inner & outer statements) and Common Table Expressions and compared performance times
 - Examples of SQL queries uploaded above
 
+![](https://github.com/Senja-P/Images/blob/main/GitHub_ERD.png)
+
 ### Technical skills utilised
 - SQL Tool used; PostgreSQL, PgAdmin 4 
 - Excel; SQL summary data outputs from PgAdmin4 transferred into Excel, creating a Data Dictionary
