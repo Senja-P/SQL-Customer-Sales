@@ -6,11 +6,10 @@
 
 - I divided countries into high, medium and low categories based on their sales and customer numbers. My advise was to focus on those countries where both sales and customer numbers were high; India, China, USA and Mexico and select the films from the popular film genre categories based on the previous sale figures and / or the number of rentals. 
 
-- To help management and marketing teams to work with country related strategies I provided them the country level data. I also included the top 5 cities based on the customer numbers to highlight the customer hot spots. The findings and country related data are available on Tableau.  
+- To help management and marketing teams to work with country related strategies I provided them the country level data. I also included the top 5 cities based on the customer numbers to highlight the customer hot spots. The findings, country related data and recommendations are available on [Tableau](https://public.tableau.com/app/profile/senja.p8569/viz/FilmSalesandCustomerAnalysis/PresentationofFindings).
 
 - Data Limitation: The biggest limitation was the sample size; only 599 customers globally. 87% of all countries had less than 10 customers. 
 
-- The presentation of findings and the recommendations are available on [Tableau](https://public.tableau.com/app/profile/senja.p8569/viz/FilmSalesandCustomerAnalysis/PresentationofFindings).
 
 
 ![](https://github.com/Senja-P/Images/blob/main/GitHub_Film1.png) 
