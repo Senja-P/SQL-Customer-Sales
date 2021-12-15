@@ -4,7 +4,7 @@
 
 - The purpose of this study project was to examine the global sales revenue associated with film rentals and customers in order to help a company to launch an online film rental platform.
 
-- I divided countries into high, medium and low categories based on their sales and customer numbers. My advise was to focus on those countries where both sales and customer numbers were high; India, China, USA and Mexico and select the films from the popular film genre categories based on the previous sale figures and / or the number of rentals. 
+- I divided countries into high, medium and low categories based on their sales and customer numbers. My advice was to focus on those countries where both sales and customer numbers were high; India, China, USA and Mexico, and select the films from the popular film genre categories based on the previous sale figures and / or the number of rentals. 
 
 - To help management and marketing teams to work with country related strategies I provided them the country level data. I also included the top 5 cities based on the customer numbers to highlight the customer hot spots. The findings, country related data and recommendations are available on [Tableau](https://public.tableau.com/app/profile/senja.p8569/viz/FilmSalesandCustomerAnalysis/PresentationofFindings).
 
