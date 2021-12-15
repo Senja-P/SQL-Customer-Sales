@@ -10,8 +10,13 @@
 
 - Data Limitation: The biggest limitation was the sample size; only 599 customers globally. 87% of all countries had less than 10 customers. 
 
+- The presentation of findings and the recommendations are available on [Tableau](https://public.tableau.com/app/profile/senja.p8569/viz/FilmSalesandCustomerAnalysis/PresentationofFindings).
+
+
+![](https://github.com/Senja-P/Images/blob/main/GitHub_Film1.png) 
+
 ### Analytics
-- Loaded data into a relational database management system (RDBMS), extracted snowflake-type entity relationship diagram and explored data types, structures and keys
+- Loaded data into a relational database management system (RDBMS), extracted a snowflake-type entity relationship diagram and explored data types, structures and keys
 - Wrote SQL queries to filter, clean, organise and summarise data
 - Used SQL to join tables, performed subqueries (inner & outer statements) and Common Table Expressions and compared performance times
 - Examples of SQL queries uploaded above
