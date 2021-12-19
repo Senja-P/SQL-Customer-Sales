@@ -1,5 +1,8 @@
 # SQL-Customer-Sales
 
+![](https://github.com/Senja-P/Images/blob/main/GitHub_Rockbuster_logo.png) 
+
+
 ### Project Overview
 
 - The purpose of this study project was to examine the global sales revenue associated with film rentals and customers in order to help a company to launch an online film rental platform.
